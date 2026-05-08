@@ -6,7 +6,5 @@
 [![VUE](https://img.shields.io/badge/vue-3.5.34-brightgreen?style=for-the-badge)](https://vuejs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-4.2.4-blue?style=for-the-badge)](https://tailwindcss.com/)
 
-- - -
-
 ### WORK IN PROGRESS
 [Show website](https://nerotvlive.github.io/zyneonprojects.com)
