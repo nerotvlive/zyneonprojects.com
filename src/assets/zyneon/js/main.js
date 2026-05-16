@@ -1,5 +1,0 @@
-import { createApp } from 'vue'
-import '../css/main.css'
-import Index from '../../../pages/Index.vue'
-
-createApp(Index).mount('#app')
